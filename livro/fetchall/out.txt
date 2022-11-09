@@ -1,0 +1,15 @@
+0.50s   30539 https://godoc.org
+0.70s   55097 https://golang.org
+1.12s    4154 http://gopl.io
+0.97s   55097 https://golang.org
+1.07s   30539 https://godoc.org
+2.12s    4154 http://gopl.io
+0.69s   30539 https://godoc.org
+0.79s   55097 https://golang.org
+1.20s    4154 http://gopl.io
+0.53s   30539 https://godoc.org
+0.75s   55097 https://golang.org
+1.22s    4154 http://gopl.io
+0.76s   55097 https://golang.org
+1.08s    4154 http://gopl.io
+Get "https://pkg.go.dev/?utm_source=godoc": dial tcp 34.149.140.181:443: i/o timeout

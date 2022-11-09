@@ -1,0 +1,6 @@
+linha
+galinha
+vaca
+coelho
+lebre 
+coelho
